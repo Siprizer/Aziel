@@ -9,7 +9,7 @@ If you are to use the code please add a form of credit for us.
 #### Requirements;
 1) Must have node.js
 2) Basic knowledge of javascript
-3) A suitable code editor *(not replit free plan or glitch they are trash)*
+3) A suitable code editor *(not replit free plan or glitch they are not recommended)*
 4) A discord bot
 
 #### ProTip
